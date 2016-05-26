@@ -12,6 +12,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise_token_auth'
 gem 'omniauth'
 gem 'rack-cors', :require => 'rack/cors'
+gem 'rails-api'
 
 group :test do
   gem 'byebug'
